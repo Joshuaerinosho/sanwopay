@@ -5,7 +5,7 @@ A new fintect mobile application.
 ## Screenshots
 
 <p align= "center">
-1<img src="https://ibb.co/wsZ5md6">
+1<img src="https://i.ibb.co/k1VNCGc/1.png">
 <p align= "center">
 2<img src="https://ibb.co/Z2N05Vv">
 <p align= "center">
