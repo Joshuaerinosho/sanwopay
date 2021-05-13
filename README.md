@@ -1,33 +1,33 @@
 # sanwopay
 
-A new fintect mobile application.
+A simple fintect mobile application.
 
 ## Screenshots
 
 <p align= "center">
 1<img src="https://i.ibb.co/k1VNCGc/1.png">
 <p align= "center">
-2<img src="https://ibb.co/Z2N05Vv">
+2<img src="https://i.ibb.co/CPWfgz4/2.png">
 <p align= "center">
-3<img src="https://ibb.co/DLnMq8K">
+3<img src="https://i.ibb.co/4JxSQYN/3.png">
 <p align= "center">
-4<img src="https://ibb.co/k5NpNmK">
+4<img src="https://i.ibb.co/34gwgR1/4.png">
 <p align= "center">
-5<img src="https://ibb.co/NFmKYDz">
+5<img src="https://i.ibb.co/zm7Zf9w/5.png">
 <p align= "center">
-6<img src="https://ibb.co/SxQPYKF">
+6<img src="https://i.ibb.co/sP52xF8/6.png">
 <p align= "center">
-7<img src="https://ibb.co/87pK1j7">
+7<img src="https://i.ibb.co/G5LxzV5/7.png">
 <p align= "center">
-8<img src="https://ibb.co/DCBm9s5">
+8<img src"<https://i.ibb.co/6PKGHVg/8.png">
 <p align= "center">
-9<img src="https://ibb.co/m9p8PyX">
+9<img src="https://i.ibb.co/N9RSGNm/9.png">
 <p align= "center">
-10<img src="https://ibb.co/5kTwWjC">
+10<img src="https://i.ibb.co/BGLFV6v/10.png">
 <p align= "center">
-11<img src="https://ibb.co/HVkXcRX">
+11<img src="https://i.ibb.co/kxWMLzM/11.png">
 <p align= "center">
-12<img src="https://ibb.co/T88d3CQ">
+12<img src="https://i.ibb.co/FwwCTPQ/12.png">
 
 
 
